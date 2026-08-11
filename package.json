@@ -6,7 +6,7 @@
     "test": "pnpm run -r test",
     "dev": "pnpm run --filter site dev"
   },
-  "author": "tegarprianiatama@gmail.com",
+  "author": "tegarprianiatama",
   "license": "ISC",
   "devDependencies": {
     "prettier": "^3.2.5"
